@@ -9,7 +9,8 @@ Here is a selection of podcasts I listen to
 
 ## International Affairs and Current Events
 
-- [Fareed Zakaria](https://podcasts.apple.com/us/search?term=Fareed%20Zakaria)
+
+- [Fareed Zakaria GPS](https://podcasts.apple.com/us/podcast/fareed-zakaria-gps/id377785090)
 - [BBC Newshour](https://podcasts.apple.com/us/search?term=BBC%20Newshour)
 - [The Intelligence — The Economist](https://podcasts.apple.com/us/search?term=The%20Intelligence%20Economist)
 - [The NPR Politics Podcast](https://podcasts.apple.com/us/search?term=NPR%20Politics%20Podcast)
