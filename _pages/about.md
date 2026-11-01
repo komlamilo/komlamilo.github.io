@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an Airman in the US Air Force with a growing interest in the intersection of general linguistics, astrolinguistics, computational linguistics, aeronautics, space exploration, and space research. I am particularly interested in exploring how linguistic theory and computational methods can contribute to our understanding of communication, cognition, and emerging challenges in aerospace and space research. 
+I am an Airman in the United States Air Force with a growing interest in the intersection of general linguistics, astrolinguistics, computational linguistics, aeronautics, space exploration, and space research. I am particularly interested in exploring how linguistic theory and computational methods can contribute to our understanding of communication, cognition, and emerging challenges in aerospace and space research. 
 
 I earned a PhD in Linguistics from New York University. My dissertation argues for a unified theory for deriving _wh_-questions and relative clauses, drawing on data from three dialects of Ewe. My linguistic research focuses on syntactic theory, micro-comparative syntax, predicative and nominal possession, argument structure, A-bar phenomena, and dialectology.
 
