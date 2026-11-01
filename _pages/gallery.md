@@ -5,25 +5,23 @@ permalink: /gallery/
 author_profile: true
 ---
 
-Welcome to my photo gallery.
-
 <div class="gallery-grid">
-  <figure>
-    <img src="/images/gallery/photo1.jpg"
-         alt="Gallery photograph 1">
-  </figure>
-
-  <figure>
-    <img src="/images/gallery/photo2.jpg"
-         alt="Gallery photograph 2">
-  </figure>
+  <img src="/images/gallery/Airman.jpg" alt="Airman">
+  <img src="/images/gallery/Airman%202.jpg" alt="Airman 2">
+  <img src="/images/gallery/Conference%201.jpg" alt="Conference 1">
+  <img src="/images/gallery/Conference%202.jpg" alt="Conference 2">
+  <img src="/images/gallery/Music.jpg" alt="Music">
+  <img src="/images/gallery/OU%20Grad.jpg" alt="OU Graduation">
+  <img src="/images/gallery/UG%20Grad.JPG" alt="UG Graduation">
+  <img src="/images/gallery/SIU%20Grad.jpg" alt="SIU Graduation">
+  <img src="/images/gallery/NYU%20Grad.JPG" alt="NYU Graduation">
 </div>
 
 <style>
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
 }
 
 .gallery-grid img {
@@ -33,7 +31,15 @@ Welcome to my photo gallery.
   border-radius: 6px;
 }
 
-.gallery-grid figure {
-  margin: 0;
+@media (max-width: 768px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
