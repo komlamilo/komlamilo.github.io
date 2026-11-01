@@ -5,7 +5,7 @@ permalink: /podcasts/
 author_profile: true
 ---
 
-Here is a selection of podcasts I listen to
+Here is a selection of podcasts I listen to:
 
 ## International Affairs and Current Events
 
