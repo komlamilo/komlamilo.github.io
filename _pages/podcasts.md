@@ -12,6 +12,7 @@ Here is a selection of podcasts I listen to:
 
 - [Fareed Zakaria GPS](https://podcasts.apple.com/us/podcast/fareed-zakaria-gps/id377785090)
 - [BBC Newshour](https://podcasts.apple.com/us/search?term=BBC%20Newshour)
+- [The Daily — The New York Times](https://podcasts.apple.com/us/podcast/the-daily/id1200361736)
 - [The Intelligence — The Economist](https://podcasts.apple.com/us/search?term=The%20Intelligence%20Economist)
 - [The NPR Politics Podcast](https://podcasts.apple.com/us/search?term=NPR%20Politics%20Podcast)
 - [Interesting Times](https://podcasts.apple.com/us/search?term=Interesting%20Times)
