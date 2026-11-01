@@ -17,33 +17,30 @@ author_profile: true
   <img src="/images/gallery/NYU%20Grad.JPG" alt="NYU Graduation">
 </div>
 
-
 <style>
 .gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
-  align-items: start;
+  columns: 3;
+  column-gap: 16px;
 }
 
 .gallery-grid img {
   display: block;
   width: 100%;
   height: auto;
-  object-fit: contain;
+  margin-bottom: 16px;
   border-radius: 6px;
+  break-inside: avoid;
 }
 
 @media (max-width: 768px) {
   .gallery-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    columns: 2;
   }
 }
 
 @media (max-width: 480px) {
   .gallery-grid {
-    grid-template-columns: 1fr;
+    columns: 1;
   }
 }
 </style>
-
