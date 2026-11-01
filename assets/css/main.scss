@@ -36,4 +36,17 @@
     "layout/archive",
     "layout/sidebar"
 ;
-   
+
+/* Compact single-row navigation */
+@media (min-width: 1024px) {
+  .greedy-nav .visible-links a {
+    font-size: 0.78em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+  }
+
+  .greedy-nav .masthead__menu-item--lg {
+    margin-right: 0.3em;
+  }
+}
+ 
