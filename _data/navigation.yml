@@ -19,6 +19,9 @@ main:
     
   - title: "Gallery"
     url: /gallery/
+    
+  - title: "Podcasts"
+    url: /podcasts/
         
 
     
