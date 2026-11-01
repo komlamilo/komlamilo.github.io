@@ -15,6 +15,9 @@ author_profile: true
   <img src="/images/gallery/UG%20Grad.JPG" alt="UG Graduation">
   <img src="/images/gallery/SIU%20Grad.jpg" alt="SIU Graduation">
   <img src="/images/gallery/NYU%20Grad.JPG" alt="NYU Graduation">
+  <img src="/images/gallery/Wright.jpg" alt="Wright">
+  <img src="/images/gallery/Space.jpg" alt="Space">
+
 </div>
 
 <style>
