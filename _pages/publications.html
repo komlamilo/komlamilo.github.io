@@ -5,28 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+<h2>Journal Articles and Book Reviews</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>Collins, Chris, Palakimwe Bidadjou, and
+<strong>Selikem Gotah</strong>. Forthcoming.
+"Ghanaian versus Togolese Ewe."
+<em>Journal of West African Languages</em>.</p>
+
+<p><strong>Gotah, Selikem</strong>. 2024.
+"Deriving Ewe (Tongugbe) <em>nyá</em>-constructions."
+<em>Linguistic Variation</em>, 1–24.
+<a href="https://doi.org/10.1075/lv.23061.got">
+https://doi.org/10.1075/lv.23061.got</a>.</p>
+
+<p><strong>Gotah, Selikem</strong>, and Soo-Hwan Lee.
+2024. "Syntactic negation in Ewe (Tongugbe)
+Agent Nominalization." <em>Syntax</em>, 1–18.
+<a href="https://doi.org/10.1111/synt.12280">
+https://doi.org/10.1111/synt.12280</a>.</p>
+
+<p><strong>Gotah, Selikem</strong>. 2017.
+Review of <em>21st Century Reading 2:
+Creative Thinking and Reading with TED Talks</em>,
+by Eunice Yeats, Mari Vargo, and Laurie Blass.
+<em>Ohio TESOL Journal</em> 10: 24.</p>
+
+<h2>Dissertation</h2>
+
+<p><strong>Gotah, Selikem</strong>. 2024.
+<em>The Ā-Quadrangle: From Ewe Dialects to UG</em>.
+PhD dissertation, New York University.</p>
 
 
 
