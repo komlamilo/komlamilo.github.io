@@ -15,13 +15,15 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /presentations/      
+    url: /presentations/ 
+
+  - title: "Podcasts"
+    url: /podcasts/
     
   - title: "Gallery"
     url: /gallery/
     
-  - title: "Podcasts"
-    url: /podcasts/
+ 
         
 
     
