@@ -11,10 +11,10 @@ redirect_from:
 
 * Ph.D. in Linguistics, New York University, 2024
 * M.Phil in Linguistics, New York University, 2023
-* M.A. in Theoretical Linguistics, Southern Illinois University, 2019
+* M.A. in Theoretical Linguistics, Southern Illinois University Carbondale, 2019
 * M.A. in Applied Linguistics, Ohio University, 2017
-* B.A. in Russian and Linguistics, 2014
-* Dip. in Russian Language and Literature, 2013
+* B.A. in Russian and Linguistics, University of Ghana, 2014
+* Dip. in Russian Language and Literature, Pushkin State Russian Language Institute, 2013
 
 
 == Certificates
