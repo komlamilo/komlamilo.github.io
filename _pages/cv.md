@@ -17,11 +17,11 @@ redirect_from:
 * Dip. in Russian Language and Literature, 2013
 
 
-======
-* Intelligence Analysis, 2025
+== Certificates
 * AI in Global Competition: The Defense Dimension, 2026
 * Digitalization in Space Research, 2026
 * Digitalization in Aeronautics, 2026
+* Intelligence Analysis, 2025
 * Introduction to Large Language Models, 2024
 * Introduction to Responsible AI, 2024
 * Introduction to Generative AI, 2024
