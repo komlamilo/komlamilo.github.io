@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,57 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Linguistics, New York University, 2024
-* MPhil, Linguistics, New York University, 2023
-* M.A., Theoretical Linguistics, Southern Illinois University, 2019
-* M.A., Applied Linguistics, Ohio University, 2017
-* B.A., Russian and Linguistics, 2014
-* Dip, Russian Language and Literature, 2013
+* Ph.D. in Linguistics, New York University, 2024
+* M.Phil in Linguistics, New York University, 2023
+* M.A. in Theoretical Linguistics, Southern Illinois University, 2019
+* M.A. in Applied Linguistics, Ohio University, 2017
+* B.A. in Russian and Linguistics, 2014
+* Dip. in Russian Language and Literature, 2013
 
-Work experience
+Certificates
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Intelligence Analysis, 2025
+AI in Global Competition: The Defense Dimension, 2026
+Digitalization in Space Research, 2026
+Digitalization in Aeronautics, 2026
+Introduction to Large Language Models, 2024
+Introduction to Responsible AI, 2024
+Introduction to Generative AI, 2024
+Computer-Assisted Language Learning, 2017
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
