@@ -5,7 +5,7 @@ permalink: /podcasts/
 author_profile: true
 ---
 
-A selection of podcasts I listen to, reflecting my interests in international affairs, history, philosophy, language, science, and space exploration.
+Here is a selection of podcasts I listen to
 
 ## International Affairs and Current Events
 
