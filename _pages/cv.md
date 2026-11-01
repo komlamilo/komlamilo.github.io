@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Linguistics, New York University, 2024
+* MPhil, Linguistics, New York University, 2023
+* M.A., Theoretical Linguistics, Southern Illinois University, 2019
+* M.A., Applied Linguistics, Ohio University, 2017
+* B.A., Russian and Linguistics, 2014
+* Dip, Russian Language and Literature, 2013
 
 Work experience
 ======
