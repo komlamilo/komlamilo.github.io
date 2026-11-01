@@ -1,16 +1,24 @@
+
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<h2>Invited Talks</h2>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% assign invited_talks = site.talks | where: "category", "invited" | sort: "date" | reverse %}
 
-{% endif %}
-
-{% for post in site.talks reversed %}
+{% for post in invited_talks %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<h2>Conference Presentations</h2>
+
+{% assign conference_talks = site.talks | where: "category", "conference" | sort: "date" | reverse %}
+
+{% for post in conference_talks %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
