@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Airman in the United States Air Force with a growing interest in the intersection of general linguistics, astrolinguistics, computational linguistics, aeronautics, space exploration, and space research. I am particularly interested in exploring how linguistic theory and computational methods can contribute to our understanding of communication, cognition, and emerging challenges in aerospace and space research. 
 
-I earned a PhD in Linguistics from New York University. My dissertation argues for a unified theory for deriving _wh_-questions and relative clauses, drawing on data from three dialects of Ewe. My linguistic research focuses on syntactic theory, micro-comparative syntax, predicative and nominal possession, argument structure, A-bar phenomena, and dialectology.
+I earned a Ph.D. in Linguistics from New York University. My dissertation argues for a unified theory for deriving _wh_-questions and relative clauses, drawing on data from three dialects of Ewe. My linguistic research focuses on syntactic theory, micro-comparative syntax, predicative and nominal possession, argument structure, A-bar phenomena, and dialectology.
 
 As a musician by avocation, I serve as an occasional accompanist (keyboard) in the Evangelical Presbyterian Church. I enjoy reading Aristotle, Descartes, Dostoevsky, Epictetus, Hitchens, Marcus Aurelius, Montaigne, Nkrumah, Nietzsche, Plato,  Russell, and Seneca. 
 I am an FC Barcelona fan, and I love (Ghana😉) jollof rice!
