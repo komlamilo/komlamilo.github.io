@@ -13,6 +13,9 @@ main:
     
   - title: "Research"
     url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Presentations"
     url: /presentations/ 
